@@ -5,7 +5,7 @@ to ensure long-term, citable availability independent of this repository.
 
 ## Download
 
-**Zenodo Archive:** https://doi.org/10.5281/zenodo.XXXXXXX
+**Zenodo Archive:** https://doi.org/10.5281/zenodo.20579317
 
 Download and place files as follows:
 
