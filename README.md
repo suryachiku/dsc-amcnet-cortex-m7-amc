@@ -1,7 +1,7 @@
 # DSC-AMCNet: Depthwise Separable Architecture for AMC on ARM Cortex-M7
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20579317.svg)](https://doi.org/10.5281/zenodo.20579317)
 
 Official code and artifacts for the paper:
 
@@ -152,7 +152,7 @@ python ota_collection/collect_ota.py \
 
 Model checkpoints and dataset split indices are archived on Zenodo:
 
-> **DOI:** [10.5281/zenodo.XXXXXXX](https://doi.org/10.5281/zenodo.XXXXXXX)
+> **DOI:** [10.5281/zenodo.20579317](https://doi.org/10.5281/zenodo.20579317)
 
 Download and place files as described in `models/checkpoints/README.md`.
 
