@@ -1,0 +1,13 @@
+﻿*.pth
+*.onnx
+*.npz
+*.dat
+*.pkl
+__pycache__/
+*.pyc
+results/
+Debug/
+Release/
+*.elf
+*.hex
+*.bin
